@@ -1,0 +1,8 @@
+reportArchivePath=reports/cucumber/archive
+
+***ConfigurationLoaderTest***
+onlyInAtaConfiguration=loaded
+conflict=a
+first=config1
+
+
